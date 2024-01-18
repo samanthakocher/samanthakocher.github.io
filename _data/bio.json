@@ -14,11 +14,10 @@
     ]
   },
   "interests": [
-    { "name": "Cyber Security",
-      "name": "Encryption",
-      "name": "Data Security",
-      "name": "Network Security"
-    }
+    { "name": "Cyber Security" },
+    {  "name": "Encryption" },
+    {  "name": "Data Security" },
+    {  "name": "Network Security" }
   ],
   "skills": [
     {
