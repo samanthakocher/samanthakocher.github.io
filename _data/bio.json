@@ -6,7 +6,7 @@
     "email": "kochers@hawaii.edu",
     "phone": "808-913-9931",
     "website": "https://samanthakocher.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2025.",
+    "summary": "I am studying for a B.S. in Computer Science - Security Science in the Department of Information and Computer Sciences and Japanesee Language in the East Asian Languages and Literatures at the University of Hawaii. I expect to graduate in Spring, 2025 and fulfill a career in Cyber Security.",
     "location": { "address": "", "postalCode": "96814", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "samanthakocher", "url": "http://github.com/samanthakocher" },
@@ -14,7 +14,11 @@
     ]
   },
   "interests": [
-    { "name": "Cyber Security" }
+    { "name": "Cyber Security",
+      "name": "Encryption",
+      "name": "Data Security",
+      "name": "Network Security"
+    }
   ],
   "skills": [
     {
