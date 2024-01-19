@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/vacay/vacay-square.png
 title: "Lego Mindstorms Robotics Competition"
-date: 2024 01 18
+date: 2017
 published: true
 labels:
   - Lego Mindstorms
@@ -12,7 +12,7 @@ labels:
 summary: "A little robot with a body made of Lego's that can be coded or controlled by an app."
 ---
 
-<img class="img-fluid" src="../img/vacay/vacay-home-page.png">
+<img class="img-fluid" src="../img/shooterbot.jpg">
 
 Lego Mindstorm is a robot system created my Legos. The "brain" or machine is just a device, then we build it's body from legos. Often, wheels, sensors, and more are involved in the Lego constructions. Our job was to set the robot up to play tag with 3 other robots. This included a camera sensor and a touch sensor. If it sensed an object in X amount of inches, it would run a program. If it touched something (i.e. the oponents, the wall/boundary, etc.), it will also run a different program. The types of programming we used was primarily block coding on an application that was built for the Lego Mindstorm. 
 
