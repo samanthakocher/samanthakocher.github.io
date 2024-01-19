@@ -2,8 +2,7 @@
 layout: essay
 type: essay
 image: /img/softwareengineering.jpeg
-title: "The power of software engineering"
-# All dates must be YYYY-MM-DD format!
+title: "The Power of Software Engineering"
 date: 2024-01-18
 published: true
 labels:
