@@ -19,5 +19,3 @@ EM Hawaii is a local organization that offers Probiotic and Microbial Products t
 During this project, I proposed my idea of spreading the awareness of what thier products do by asking a science teacher at school to educate the students on this product as a part of their experiments. By using EM products in school, I thought it would teach the younger generations on how to properly take care of the environment. 
 
 Along with the student experiment, I also made a little tiktok video that she could post if she wanted to because tiktok was a fairly new application at the time (or at least it was just going viral).
-
-<img class="img-fluid" src="../img/EM_Hawaii_TikTok.mov">
