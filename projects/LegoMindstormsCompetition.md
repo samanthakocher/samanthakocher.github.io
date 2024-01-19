@@ -21,5 +21,3 @@ Lego Mindstorm is a robot system created my Legos. The "brain" or machine is jus
 Another way we used these Lego Mindstorms was to play soccer. In this case, we would adjust our robot to be able to endure the movement and possible bumping into different robots. We created a large claw in the front to "hold" the ball. Instead of block coding, we used an app that was created for Lego Mindstorms to control the robots 2 wheels.
 
 For both of these games, we worked in teams of 3. My two friends and I worked together to plan what we want our robot to do and used the block code to execute our plans. We had about 4 different programs for a variety of what we wanted our robot to do.
- 
-Source: <a href="https://github.com/legomindstorms">legomindstorms</a>
