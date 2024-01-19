@@ -42,16 +42,14 @@
   ],
   "work": [
     {
-      "company": "Hollister",
-      "position": "Sales Representative",
+      "company": "University of Hawaii",
+      "position": "IT Support",
       "website": "",
-      "startDate": "2020",
-      "endDate": "2021",
-      "summary": "Worked retail as a sales representative.",
+      "startDate": "2024",
+      "endDate": "Present",
+      "summary": "Start next month",
       "highlights": [
-        "Assist customers with their needs and help find outfits to fit their desires.",
-        "Work the cash register quickly and efficiently."
-      ]
+        ""
     },
     {
       "company": "Walnut Street Hospitality Group",
@@ -66,6 +64,17 @@
         "Maintain and organize filing systems both online and in the office.",
         "Created procedures and systems to teach new hire's more efficiently.",
         "Worked closely with Google applications and Microsoft Office when created reports."
+    },
+    {
+      "company": "Hollister",
+      "position": "Sales Representative",
+      "website": "",
+      "startDate": "2020",
+      "endDate": "2021",
+      "summary": "Worked retail as a sales representative.",
+      "highlights": [
+        "Assist customers with their needs and help find outfits to fit their desires.",
+        "Work the cash register quickly and efficiently."
       ]
     }
   ],
