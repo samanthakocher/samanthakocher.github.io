@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/senior_portfolio_title_page.jpeg
+image: img/Senior_Portfolio_Title_Page.jpeg
 title: "The Journey of Growing"
 date: 2021
 published: true
@@ -11,7 +11,7 @@ labels:
 summary: "A collection of my top literature pieces from high school."
 ---
 
-<img class="img-fluid" src="../img/senior_portfolio_title_page.jpeg">
+<img class="img-fluid" src="../img/Senior_Portfolio_Title_Page.jpeg">
 
 This Senior portfolio consists of all my favorite writing pieces in High school. Consisting of about 17 pieces ranging from Essays, Poems, Creative pieces, to Japanese writing, they all contribute to a theme of growing. It's talks about many of my personal experiences with very personal writing, while also challenging me as a writing to be creative, professional, and authentic.
 
