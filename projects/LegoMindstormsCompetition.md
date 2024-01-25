@@ -12,7 +12,9 @@ labels:
 summary: "A little robot with a body made of Lego's that can be coded or controlled by an app."
 ---
 
-<img class="img-fluid" src="../img/shooterbot.jpg">
+<img width="100px"
+     class="img-fluid" 
+     src="../img/shooterbot.jpg">
 
 The image above is a sample image of what a Lego Mindstorm might look like. This one in particular is from https://blog.nomagic.com/collaboration-between-simulated-model-and-external-system-controlling-lego-mindstorms-with-cameo-simulation-toolkit/ and depicts a shooter bot.
 
