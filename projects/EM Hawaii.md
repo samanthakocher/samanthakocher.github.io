@@ -12,7 +12,9 @@ labels:
 summary: "EM Hawaii is a local organization that creates various things organically, with a main product being a solution of micro-organisms (good bacteria) that have many beneficial capabilities like cleaning in the house or even cleaning polluted waters like the Ala Wai."
 ---
 
-<img class="img-fluid" src="../img/EM_Hawaii.jpeg">
+<img width="200px"
+  class="img-fluid" 
+  src="../img/EM_Hawaii.jpeg">
 
 EM Hawaii is a local organization that offers Probiotic and Microbial Products that can be used for a variety of reasons. I worked with this organization as project to spread awareness about their products and how they can be used for things like cleanig your house, health and wellness, argriculture, animal, environmental, composting, cooking, and even cooking.
 
