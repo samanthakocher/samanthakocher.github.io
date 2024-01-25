@@ -11,7 +11,9 @@ labels:
 summary: "A collection of my top literature pieces from high school."
 ---
 
-<img class="img-fluid" src="../img/senior_portfolio_titlepage.png">
+<img width="100px"
+     class="img-fluid" 
+     src="../img/senior_portfolio_titlepage.png">
 
 This Senior portfolio consists of all my favorite writing pieces in High school. Consisting of about 17 pieces ranging from Essays, Poems, Creative pieces, to Japanese writing, they all contribute to a theme of growing. It's talks about many of my personal experiences with very personal writing, while also challenging me as a writing to be creative, professional, and authentic.
 
