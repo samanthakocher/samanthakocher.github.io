@@ -12,7 +12,7 @@ labels:
 summary: "A little robot with a body made of Lego's that can be coded or controlled by an app."
 ---
 
-<img width="100px"
+<img width="700px"
      class="img-fluid" 
      src="../img/shooterbot.jpg">
 
