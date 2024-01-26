@@ -13,7 +13,6 @@ summary: "A collection of my top literature pieces from high school."
 
 <h2> The Overview </h2>
 A senior portfolio is a project that seniors create to gather all of their best works and pieces into one place to showcase for their future. This project allows for a student to see their strengths and weaknesses in terms of what parts of their writing is good, and/or what works they might need to add for their portfolio to be better for their future. It's a form of reflection from their previous years with their favorite and most proudful works. Not only does a senior portfolio showcase a student academically, but it often reflects what kind of person the student may be. Senior portfolios, and portfolios in general, are an important aspect in an educational career because it allows for the collection and conclusion of a students work throughout school to be showcased.
-
 For this senior portfolio, specifically, the topics that were required to include certain pieces for were:
 - 
 
