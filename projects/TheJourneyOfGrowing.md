@@ -32,3 +32,6 @@ For this senior portfolio, specifically, the topics that were required to includ
 This senior portfolio consists of all my favorite writing pieces that I completed in high school. Comprising of about 12 pieces ranging from Essays, Poems, Creative pieces, to Japanese writing, they all contribute to a theme of growth. This portfolio in particular represents a time where I moved from Japan to Hawaii and many of the pieces represent the changes and adjustments I went through, thus, making it very personal. 
 
 This project challenged me because it required a reflection before each piece talking about why I chose that piece and how I feel about my writing in that piece (was it good? Bad?). Being able to reasonable see your achievements, but also weaknesses is an important skill because it allows you to try to better yourself in the future and reflect on your everyday activies. Not only did this portfolio teach me new skills, but it also allowed me to reflect on the journey I've gone on that far. I think reflection is also important to do because it also helps growth as an individual. Nobody is perfect, but we can all grow to try and be a better person than yesterday.
+
+<a href="samanthakocher.github.io/img/TheJourneyOfGrowing/Senior_Portfolio.pdf"
+   target="_blank">PDF. </a>
