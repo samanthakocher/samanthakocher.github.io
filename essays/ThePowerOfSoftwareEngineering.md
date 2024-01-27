@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-image: /img/softwareengineering.jpeg
+image: /img/ThePowerOfSoftwareEngineering/softwareengineering.jpeg
 title: "The Power of Software Engineering"
 date: 2024-01-18
 published: true
@@ -10,7 +10,7 @@ labels:
   - Computer Science
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/softwareengineering.jpeg">
+<img width="200px" class="rounded float-start pe-4" src="../img/ThePowerOfSoftwareEngineering/softwareengineering.jpeg">
 
 Software Engineering to me is a very powerful tool to have. It can have a large array of purposes including app development, web development, game development, etc. Almost anything can be created once you know about software engineering. I think it is one of, if not, the most powerful tool to have in the computer science world. There is no harm in knowing the processes of a program and how to execute it.
 
