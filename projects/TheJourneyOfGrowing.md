@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/senior_portfolio_titlepage.png
+image: img/TheJourneyOfGrowing/senior_portfolio_titlepage.png
 title: "The Journey of Growing"
 date: 2021
 published: true
