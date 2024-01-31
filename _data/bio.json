@@ -26,7 +26,7 @@
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Git/GitHub" ]
+	"keywords": [ "MacOS", "Git/GitHub", "Microsoft Office", "Google Applications" ]
     }
   ],
   "education": [
@@ -94,6 +94,14 @@
       ]
     }
   ],
+    "awards" : [
+	{
+	    "title": "Hawai'i Seal of Biliteracy, Japanese and English",
+	    "date": "2021-05",
+	    "awarder": "Hawai'i State  Department of Education",
+	    "summary": "To be awarded upon graduation to students who demonstrate a high proficiency in either of the state's two official languages and at least one additional language. "
+	}    
+    ],
   "references": [
     {
       "name": "Available upon request"
