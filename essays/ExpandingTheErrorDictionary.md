@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-image: 
+image: ../img/ExpandingTheErrorDictionary/JavascriptDictionary.jpg
 title: "Expanding the Error Dictionary"
 date: 2024-02-07
 published: true
@@ -11,6 +11,8 @@ labels:
   - IntelliJ
   - Error
 ---
+
+<img width="100px" class="" src="../img/ExpandingTheErrorDictionary/JavascriptDictionary.jpg">
 
 Coding is fun... until you have a bunch of bugs to fix... then it gets tedious and exhausting... which is no longer fun... then you meet ESLint... and ESLint tells you what's wrong, why it's wrong, and it even shows you how to fix it!
 
