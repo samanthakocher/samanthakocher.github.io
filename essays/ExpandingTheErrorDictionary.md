@@ -12,7 +12,7 @@ labels:
   - Error
 ---
 
-<img width="100px" class="" src="../img/ExpandingTheErrorDictionary/JavascriptDictionary.jpg">
+<img width="250px" src="../img/ExpandingTheErrorDictionary/JavascriptDictionary.jpg">
 
 Coding is fun... until you have a bunch of bugs to fix... then it gets tedious and exhausting... which is no longer fun... then you meet ESLint... and ESLint tells you what's wrong, why it's wrong, and it even shows you how to fix it!
 
