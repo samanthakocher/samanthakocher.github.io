@@ -66,3 +66,5 @@ Another example of a website I did that was both challenging, but informative an
 
 <h2> Concluding Remarks </h2>
 Overall, I feel like my biggest personal conclusion is that although bootstrap sounds simple and have many efficient tools, trying to make a website that is completely perfect is extremely difficult, especially as a beginner. Not only is it hard to know which class, command, or tool to use, but it can also be hard to know when each tool is more appropriate than another. So far, bootstrap is the only type of UI Framework that I have experience with, but I think I would recommend it because of its efficiency and built-in classes and designs. It may not be the best one or the easiest to learn, but I still think it is a useful tool when creating websites, especially when starting out. Then, when you are more comfortable with website development and software engineering, you can move on to more intricate and advanced types of UI Frameworks that may or may not be better.
+
+Please note: I used ChatGPT for additional background information on UI Frameworks and Bootstrap. I also used ChatGPT to help with spelling.
