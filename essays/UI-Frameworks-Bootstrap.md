@@ -55,7 +55,7 @@ CSS File:
 
 The example that I have been referring to this far is from a bootstrap assignment that I had done in class. I chose this example because it was tedious and challenging, but made me feel relieved and accomplished after doing it. Some of the things that I struggled with during this assignment was similar to the things I mentioned above. Trying to put the proper code in the proper line and order, adjusting the style specificaitons like the text above the image, the colors, and the buttons all took a lot of time. Of course, with more practice, it becomes easier and familiar, however, with the experience I have right now, it was the perfect assignment that was challenging, yet, possible in a decent amount of time (though not quite fast enough).
 
-
+<img width="500px" class="rounded float-center pe-4" src="../img/UIFrameworks-Bootstrap/ANFWebsite.png">
 
 Another example of a website I did that was both challenging, but informative and good experience was an assignment where we mimicked a site of our choosing, which I chose the Abercrombie & Fitch website. The most challenging part of this website for me was trying to figure out how to merge the two "main" images together to where there was no white space in between. Though it may seem simple, I tried many different ways, referring to many different sources, and eventually, with the help of my friend and ChatGPT, I was able to semi-do it, but still not exact. None-the-less, this website only broadened my knowledge and experience with bootstrap and website development.
 
