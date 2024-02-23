@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "What's So Good About It?"
+title: "Bootstrap: What's So Good About It?"
 # All dates must be YYYY-MM-DD format!
 date: 2024-02-22
 published: true
