@@ -12,7 +12,6 @@ labels:
   - Bootstrap
 ---
 
-//Intro
 Welcome to the world of UI Frameworks, but more specifically, Bootstrap 5. To start, a UI Framework is a User Interface Framework that is a set of pre-designed and pre-coded elements, components, and tools for developers to use to create a website or software application. Bootstrap 5 is a popular type of UI Framework that allows for "easy" use, pre-built applications, customization, the integration of Javascript components, and more. However, like everything in the world, Bootstrap 5 has both its conveniences, and inconveniences. Let's end on the good note: Bootstrap has a moderate learning curve and limited design freedom, but Bootstrap can also be functional, efficient, and effective.
 
 <h2> The learning curve and design freedom </h2> 
