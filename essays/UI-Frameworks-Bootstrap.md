@@ -25,28 +25,34 @@ Bootstrap to me is very innovative. So far, I feel like there are things that ar
 Another example of Bootstraps functionality and innovative could be its untility classes. Although, at first, it is hard to get the hang of these classes and knowing when to use what, they become very handy and convenient in the long run. From little things to being able to customize a section (or container) within the html code rather than the CSS code saves time.
 For example, continuing with the same website example,
 ```
+  ...
     <div class="container justify-content-center">
       ...
     </div>
+  ...
 ```
 allows for everything within this container to be centered. This is useful for this website in particular because in the navbar, all of the nav items need to be centered. However, the longer way of doing this would be to give the class a name then go to the CSS file to add the style customizations to the class, as shown below.
 HTML File:
 ```
+  ...
     <div class="navbarstyle container">
       ...
     </div>
+  ...
 ```
 CSS File:
 ```
+  ...
     .navbarstyle {
       text.align: center;
     }
+  ...
 ```
 
 <h2> My webpage experience </h2> 
 
 
-<img width="200px" src="../img/UIFrameworks-Bootstrap/MorningBrewWebsite.png" >
+<img width="350px" class="rounded float-center pe-4" src="../img/UIFrameworks-Bootstrap/MorningBrewWebsite.png">
 
 <h2> Concluding Remarks </h2>
 
