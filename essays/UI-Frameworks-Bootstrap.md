@@ -51,8 +51,13 @@ CSS File:
 
 <h2> My webpage experience </h2> 
 
+<img width="500px" class="rounded float-center pe-4" src="../img/UIFrameworks-Bootstrap/MorningBrewWebsite.png">
 
-<img width="350px" class="rounded float-center pe-4" src="../img/UIFrameworks-Bootstrap/MorningBrewWebsite.png">
+The example that I have been referring to this far is from a bootstrap assignment that I had done in class. I chose this example because it was tedious and challenging, but made me feel relieved and accomplished after doing it. Some of the things that I struggled with during this assignment was similar to the things I mentioned above. Trying to put the proper code in the proper line and order, adjusting the style specificaitons like the text above the image, the colors, and the buttons all took a lot of time. Of course, with more practice, it becomes easier and familiar, however, with the experience I have right now, it was the perfect assignment that was challenging, yet, possible in a decent amount of time (though not quite fast enough).
+
+
+
+Another example of a website I did that was both challenging, but informative and good experience was an assignment where we mimicked a site of our choosing, which I chose the Abercrombie & Fitch website. The most challenging part of this website for me was trying to figure out how to merge the two "main" images together to where there was no white space in between. Though it may seem simple, I tried many different ways, referring to many different sources, and eventually, with the help of my friend and ChatGPT, I was able to semi-do it, but still not exact. None-the-less, this website only broadened my knowledge and experience with bootstrap and website development.
 
 <h2> Concluding Remarks </h2>
-
+Overall, I feel like my biggest personal conclusion is that although bootstrap sounds simple and have many efficient tools, trying to make a website that is completely perfect is extremely difficult, especially as a beginner. Not only is it hard to know which class, command, or tool to use, but it can also be hard to know when each tool is more appropriate than another. So far, bootstrap is the only type of UI Framework that I have experience with, but I think I would recommend it because of its efficiency and built-in classes and designs. It may not be the best one or the easiest to learn, but I still think it is a useful tool when creating websites, especially when starting out. Then, when you are more comfortable with website development and software engineering, you can move on to more intricate types of UI Frameworks that may or may not be better.
