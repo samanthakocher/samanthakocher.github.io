@@ -9,8 +9,9 @@ labels:
   - Javascript
   - Design Patterns
 ---
-
-<img width="250px" src="../img/designPatterns/prototypePatternImage.jpeg>
+<p align="center">
+  <img width="500px" class="rounded float-center pe-4" src="../img/designPatterns/prototypePatternImage.jpeg">
+</p>
 
 When it comes to thinking of software engineering, you may think, "Oh, engineering a software to run by coding a bunch of things." However, the part that people may not think of is what engineering is the software engineer actually doing.
 
