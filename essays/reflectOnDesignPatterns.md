@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-image: 
+image: ../img/designPatterns/prototypePatternImage.jpeg
 title: "The Patterns of Prototypes"
 date: 2024-04-25-24
 published: true
@@ -9,6 +9,8 @@ labels:
   - Javascript
   - Design Patterns
 ---
+
+<img width="250px" src="../img/designPatterns/prototypePatternImage.jpeg>
 
 When it comes to thinking of software engineering, you may think, "Oh, engineering a software to run by coding a bunch of things." However, the part that people may not think of is what engineering is the software engineer actually doing.
 
