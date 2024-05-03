@@ -1,3 +1,16 @@
+---
+layout: essay
+type: essay
+image: ../img/ExpandingTheErrorDictionary/JavascriptDictionary.jpg
+title: "Integrating AI"
+date: 2024-02-07
+published: true
+labels:
+  - Javascript
+  - ESLint
+  - IntelliJ
+  - Error
+---
 ### I. Introduction
 
 
