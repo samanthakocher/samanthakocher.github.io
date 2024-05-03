@@ -1,15 +1,13 @@
 ---
 layout: essay
 type: essay
-image: ../img/ExpandingTheErrorDictionary/JavascriptDictionary.jpg
+image: ../img/IntegratingAI/ChatGPT-Icon.jpg
 title: "Integrating AI"
-date: 2024-02-07
+date: 2024-05-03
 published: true
 labels:
-  - Javascript
-  - ESLint
-  - IntelliJ
-  - Error
+- AI
+- ChatGPT
 ---
 ### I. Introduction
 
