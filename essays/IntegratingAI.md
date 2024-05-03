@@ -9,7 +9,7 @@ labels:
 - AI
 - ChatGPT
 ---
-<img className="justify-content-center" src="img/IntegratingAI/ChatGPT-Icon.jpg />
+<img className="justify-content-center" src=".../img/IntegratingAI/ChatGPT-Icon.jpg">
 
 ### I. Introduction
 
