@@ -8,11 +8,17 @@ published: true
 labels:
 - AI
 - ChatGPT
+- Education
 ---
-<img src=".../img/IntegratingAI/ChatGPT-Icon.jpg">
+<p align="center">
+  <img  style="margin-right: 290px" width="80" class="rounded float-center pe-4" src="../img/IntegratingAI/ChatGPT-Icon.png">
+<img width="80" class="rounded float-center pe-4" src="../img/IntegratingAI/github-copilot-icon.png">
+</p>
 
 ### I. Introduction
+Everyone knows that AI is the future. It's what almost everyone and anyone will turn to with any question, regardless if they are "tech-savvy" or not. Of course, it depends on the type of AI application being used, but AI can help with problems ranging from letters, essays, math, code, and almost anything and everything that can be thought of.
 
+In the Software Engineering world specifically, AI tools such as ChatGPT, Github Co-Pilot, etc. are especially useful for software engineers because it can be used as a baseline for code or algorithms. Although AI is not always 100% accurate, we can use our knowledge with the combination of the AI's output to create more efficient code that we may not have thought of without the AI's help.
 
 ### II. Personal Experience with AI:
 I have used AI in class this semester in the following areas:
