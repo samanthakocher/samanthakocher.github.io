@@ -11,8 +11,8 @@ labels:
 - Education
 ---
 <p align="center">
-  <img  style="margin-right: 50px" width="80" class="rounded float-center pe-4" src="../img/IntegratingAI/ChatGPT-Icon.png">
-<img width="80" class="rounded float-center pe-4" src="../img/IntegratingAI/github-copilot-icon.png">
+  <img  style="margin-right: 50px" width="100" class="rounded float-center pe-4" src="../img/IntegratingAI/ChatGPT-Icon.png">
+<img width="100" class="rounded float-center pe-4" src="../img/IntegratingAI/github-copilot-icon.png">
 </p>
 
 ### I. Introduction
