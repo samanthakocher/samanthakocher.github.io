@@ -69,61 +69,67 @@ I used AI in our final projects Home Page/Landing Page when it came to adjusting
   6. Learning a concept / tutorial
 <br>
 <br>
+If I needed to know a concept for an assignment, I most likely asked AI to help me understand it. When it came to knowing the difference between two similar things (like var vs. const vs. let), I asked ChatGPT. I have also used AI to help me relate certain concepts to things I might now in real-world applications.
+<br>For example, I used AI to help me learn and understand Design Patterns and what ways I may have already used it, along with the lecture videos on the ICS 314 website. By knowing more in depth, I was able to write my essay about Design Patterns more efficiently. I started by asking ChatGPT "What are design patterns used for?" then askedd "What are the most popular design pattedrns and some examples," then, if I had a specific design pattern in mind, I asked things like "Is this an example of a design pattern" along with some code to verify that I am correct in my thought process.
 
 
-
-  7. Answering a question in class or in Discord
+  8. Answering a question in class or in Discord
 <br> 
 <br>
+I did not use AI to answer questions in class or in Discord because I never really answered anyone's question. I know Professor said it's beneficial if I did help other, because it could broaden my own knowledge, but I never felt confident enough to answer someone elses' question. To me, if I can use ChatGPT and try to answer, so could they, so what made my answer so special or different from what they should have already tried.
 
 
+  10. Asking or answering a smart-question
+<br>
+<br>
+I did not use AI to ask or answer anything in the smart-questions channel because similar to my response for #7, what I could find felt like things other people could have easily found. Plus, I do not have enough confidence in my knowledge or experience to even know where to begin for some of the questions asked.
 
-  8. Asking or answering a smart-question
+
+  11. Coding example e.g. “give an example of using Underscore .pluck”
 <br>
 <br>
 
 
 
-  9. Coding example e.g. “give an example of using Underscore .pluck”
+  12. Explaining code
 <br>
 <br>
 
 
 
-  10. Explaining code
+  13. Writing code
 <br>
 <br>
 
 
 
-  11. Writing code
+  14. Documenting code
 <br>
 <br>
 
 
 
-  12. Documenting code
+  15. Quality assurance
 <br>
 <br>
 
 
 
-  13. Quality assurance
-<br>
-<br>
-
-
-
-  14. Other uses in ICS 314 not listed above
+  16. Other uses in ICS 314 not listed above
 
 
 ### III. Impact on Learning and Understanding:
+Being able to incorporate AI into my learning and understanding process has been extremely beneficial to me because it gave me the sense of what it would be like in the real world. I have always thought, why do we have to memorize certain things as if we won't have computers, phones, laptops, etc. with us everywhere we go in the future. Although, it is still important to have basic knowledge of certain things, I really enjoyed the freedom and creativity using AI allowed. Being able to test or expand our knowledge or even thoughts with the assist of AI, or realizing "Oh, AI doesn't know this so it might be important that I actually know and learn it from the texts" is what I love doing most. I know AI won't know everything completely accurately, but it was good to be able to test and practice what are the kind of things I should absolutely remember and what things will AI have my back on.
+<br>Not only did AI help me learn what I should already know, but being able to incorporate AI also allowed me to practice how to ask questions correctly. Although, AI may not read into the specifics of the smart questions module we learned, being able to put into practice asking a smart question was beneficial to my learning. It allowed me to ask straight-to-the-point questions with little to no room for assumption. Being that AI's are robots and need strict outlines (because they don't have their own thoughts or feelings), it was important for me to ask a question that I felt could most accurately give me an answer I was looking for.
+<br>To say AI impacted my learning would be an understatement. I think AI has enhanced my learning to almost its fullest capacity, if not the fullest. Being able to practice and learn to have a healthy relationship with AI has been beneficial to me and my education because it taught me to not rely on AI, but to use it as an ally or tool. Just like it is important to collaborate with other people, I think it is also important to "collaborate" with AI, even if it is one-sided. Being able to see and learn of different approaches to coding, or life in general, is really important, and I think AI can be seen as just one of many perspectives to view.
 
 
 ### IV. Practical Applications:
+Some other practical applications of AI outside of ICS 314 would be other grammar/spelling checks, a possible outline for a creative short-story, a random name generator, a synonym generator, or even a calculator for complex calculations (like linear algebra). With many website requiring payments or subscriptions, AI has been a free resource that I could consistently rely on as a tool. When it came to my Linear Algebra class, sometimes I needed an example solved, but I wanted to see the steps. However, on most websites like Symbolab or Mathway, it only showed limited steps (which were obvious and not that helpful) and required an account or some kind of payment to actually see the full solution. Sort of ironically, these calculators are far less helpful than AI because at least I could ask AI HOW they got the answer rather than just being provided the answer like other caluclators.
 
 
 ### V. Challenges and Opportunities:
+
 
 
 ### VI. Comparative Analysis:
