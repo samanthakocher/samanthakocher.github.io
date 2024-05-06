@@ -55,12 +55,13 @@ I almost always used AI in the In-class WODs because if it wasn't to assist my k
 <br>
 <br>
 In the Essays that we wrote in this class, I never put the prompt of the essay into ChatGPT but rather told ChatGPT to check my spelling or grammar in my essay. However, even when asking specifically for spelling errors (not grammar or any other), it would still give me recommendation to fix some sentences, but unless my original sentence didnʻt make any sense, I never listened because I felt like those minor "errors" were what made my essays personal and human, which I felt was enforced in class.
+<br>The prompt I always used to ask ChatGPT was: "`<insert essay or parts to be spell/grammar checked>` check my spelling and grammar."
 
 
-  5. Final project
+  6. Final project
 <br>
 <br>
-I used AI in our final projects Home Page/Landing Page when it came to adjusting the style of it all. I was able to refer to previous assignments when it came to the basic layout, but I had a hard time to make the background image fit the screen perfectly, along with the navbar and footer. However, since ChatGPT can't import or export external sources (like my image), it was hard to get it to understand what my problem was. I eventually ended up asking "how to make the background image fit properly," which led it to give me some tips on how to adjust the CSS code to fit adjust an image size. With ChatGPTʻs tips and my knowledge from experience, I was able to play around with different patterns of the code which eventually gave me what I wanted.
+I used AI in our final projects Home Page/Landing Page when it came to adjusting the style of it all. I was able to refer to previous assignments when it came to the basic layout, but I had a hard time to make the background image fit the screen perfectly, along with the navbar and footer. However, since ChatGPT can't import or export external sources (like my image), it was hard to get it to understand what my problem was. I eventually ended up asking "How to make the background image fit properly," which led it to give me some tips on how to adjust the CSS code to fit adjust an image size. With ChatGPTʻs tips and my knowledge from experience, I was able to play around with different patterns of the code which eventually gave me what I wanted.
 <p align="center">
   <img width="500px" class="rounded float-center pe-4" src="../img/IntegratingAI/kalo-stems-landing-page.png">
 </p>
@@ -88,34 +89,38 @@ I did not use AI to ask or answer anything in the smart-questions channel becaus
   11. Coding example e.g. “give an example of using Underscore .pluck”
 <br>
 <br>
-
+I used AI when it came to providing examples because I feel like the database of which AI platforms such as ChatGPT can pull examples from is far larger than a list of examples for a single person. Like I stated in #6, I used AI to help provide examples to Design Patterns so I could better relate and grasp what exactly they do and are. Asking AI rather than a classmate or the professor what some examples of design patterns are allows me to not only try to find the answer myself by teaching myself independent research skills, but it also allowed for me add examples to my personal memory and dictionary on top of what the professor provided in the screencast lecture videos.
 
 
   12. Explaining code
 <br>
 <br>
+I do not think I have used AI to explain code so far, because I feel like a lot of code is self-explanatory or explained in lecture or screencasts, but I do forsee myself using AI to explain code in the future when I need to. In times where I start a job and want to see why a previous software engineer coded something, I would most likely put it into an AI to explain so I can either verify that I know what it's doing or clarify what exactly a specific line of code is doing.
+<br>As an example, I would most likely ask ChatGPT (or any AI) "What does this segment of code do `<insert segment of code>`."
 
 
-
-  13. Writing code
+  14. Writing code
 <br>
 <br>
+I don't think I've used AI to completely write any of my code only because I knew there were certain things that it did and I didn't learn yet so I couldn't verify if it was accurate or not. However, similar to #10, I used AI to give an example of what I was looking for which allowed me to copy certain lines of code.
+<br>An example of what I would ask AI would be something along the lines of "How to change the background of my navbar," which I used for my Final Project's Landing Page (#5), and it gave me a couple of different ways to change the color of my navbar. Although I didn't copy what it provided, I did use the information given to play around with the code to get my desired output.
 
-
-
-  14. Documenting code
+  16. Documenting code
 <br>
 <br>
+I never used AI to document code because I never thought about it, and I also lost my habit of actually documenting my code. However, going forward, I will definitely consider using AI to help accurately and efficiently document my code.
 
 
-
-  15. Quality assurance
+  17. Quality assurance
 <br>
 <br>
+I have not used AI to check my code for quality assurance only because I put all of my trust into ESLint since it seemed to reccommend/fix everything I would even consider fixing. However, if we did not install/use ESLint, I would most likely ask AI to check my code to see if it was as efficient as it could be.
 
 
-
-  16. Other uses in ICS 314 not listed above
+  19. Other uses in ICS 314 not listed above
+<br>
+<br>
+I do not think I used AI for anything that has not yet been mentioned for ICS 314.
 
 
 ### III. Impact on Learning and Understanding:
