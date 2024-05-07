@@ -44,12 +44,13 @@ I used AI in the In-class Practice WODs because due to the time pressure of clas
 <br>
 I almost always used AI in the In-class WODs because if it wasn't to assist my knowledge, it was to check if my instinct was right. Using AI in these WODs was not only beneficial to my grade because it allowed me to finish faster, but it also gave different ways I to accomplish the task at hand or even where to start. In these scenarios, ChatGPT was usually incorrect, but even giving the base structure, like the Grid System or even the Navbar system, helped save me time, which is valuable in timed WODs.
 <br> An example of when ChatGPT helped me with a grid system would be the WOD called Morning Brew Home Page. In this WOD, I remember needing help for a few things: centering my navbar and moving the footer. I gave ChatGPT my navbar code and asked why it wasn't centered, then I gave ChatGPT my footer code and asked how to adjust its position to the right.
+<br>
 <img width="500px" class="rounded float-center pe-4" src="../img/IntegratingAI/morning-brew-home-page.png">
 
   4. Essays
 <br>
 <br>
-In the Essays that we wrote in this class, I never put the prompt of the essay into ChatGPT but rather told ChatGPT to check my spelling or grammar in my essay. However, even when asking specifically for spelling errors (not grammar or any other), it would still give me recommendation to fix some sentences, but unless my original sentence didnʻt make any sense, I never listened because I felt like those minor "errors" were what made my essays personal and human, which I felt was enforced in class.
+In the Essays that we wrote in this class, I never put the prompt of the essay into ChatGPT but rather told ChatGPT to check my spelling or grammar in my essay. However, even when asking specifically for spelling errors (not grammar or any other), it would still give me recommendation to fix some sentences, but unless my original sentence didn't make any sense, I never listened because I felt like those minor "errors" were what made my essays personal and human, which I felt was enforced in class.
 <br>The prompt I always used to ask ChatGPT was: "`<insert essay or parts to be spell/grammar checked>` check my spelling and grammar."
 
 
@@ -57,6 +58,7 @@ In the Essays that we wrote in this class, I never put the prompt of the essay i
 <br>
 <br>
 I used AI in our final projects Home Page/Landing Page when it came to adjusting the style of it all. I was able to refer to previous assignments when it came to the basic layout, but I had a hard time to make the background image fit the screen perfectly, along with the navbar and footer. However, since ChatGPT can't import or export external sources (like my image), it was hard to get it to understand what my problem was. I eventually ended up asking "How to make the background image fit properly," which led it to give me some tips on how to adjust the CSS code to fit adjust an image size. With ChatGPTʻs tips and my knowledge from experience, I was able to play around with different patterns of the code which eventually gave me what I wanted.
+<br>
 <img width="500px" class="rounded float-center pe-4" src="../img/IntegratingAI/kalo-stems-landing-page.png">
 
 
@@ -64,13 +66,13 @@ I used AI in our final projects Home Page/Landing Page when it came to adjusting
 <br>
 <br>
 If I needed to know a concept for an assignment, I most likely asked AI to help me understand it. When it came to knowing the difference between two similar things (like var vs. const vs. let), I asked ChatGPT. I have also used AI to help me relate certain concepts to things I might now in real-world applications.
-<br>For example, I used AI to help me learn and understand Design Patterns and what ways I may have already used it, along with the lecture videos on the ICS 314 website. By knowing more in depth, I was able to write my essay about Design Patterns more efficiently. I started by asking ChatGPT "What are design patterns used for?" then askedd "What are the most popular design pattedrns and some examples," then, if I had a specific design pattern in mind, I asked things like "Is this an example of a design pattern" along with some code to verify that I am correct in my thought process.
+<br>For example, I used AI to help me learn and understand Design Patterns and what ways I may have already used it, along with the lecture videos on the ICS 314 website. By knowing more in depth, I was able to write my essay about Design Patterns more efficiently. I started by asking ChatGPT "What are design patterns used for?" then asked "What are the most popular design patterns and some examples," then, if I had a specific design pattern in mind, I asked things like "Is this an example of a design pattern" along with some code to verify that I am correct in my thought process.
 
 
 7. Answering a question in class or in Discord
 <br> 
 <br>
-I did not use AI to answer questions in class or in Discord because I never really answered anyone's question. I know Professor said it's beneficial if I did help other, because it could broaden my own knowledge, but I never felt confident enough to answer someone elses' question. To me, if I can use ChatGPT and try to answer, so could they, so what made my answer so special or different from what they should have already tried.
+I did not use AI to answer questions in class or in Discord because I never really answered anyone's question. I know Professor said it's beneficial if I did help other, because it could broaden my own knowledge, but I never felt confident enough to answer someone else' question. To me, if I can use ChatGPT and try to answer, so could they, so what made my answer so special or different from what they should have already tried.
 
 
 8. Asking or answering a smart-question
@@ -95,7 +97,7 @@ I do not think I have used AI to explain code so far, because I feel like a lot 
 11. Writing code
 <br>
 <br>
-I don't think I've used AI to completely write any of my code only because I knew there were certain things that it did and I didn't learn yet so I couldn't verify if it was accurate or not. However, similar to #10, I used AI to give an example of what I was looking for which allowed me to copy certain lines of code.
+I don't think I've used AI to completely write any of my code only because I knew there were certain things that it did and I didn't learn yet so I could not verify if it was accurate or not. However, similar to #10, I used AI to give an example of what I was looking for which allowed me to copy certain lines of code.
 <br>An example of what I would ask AI would be something along the lines of "How to change the background of my navbar," which I used for my Final Project's Landing Page (#5), and it gave me a couple of different ways to change the color of my navbar. Although I didn't copy what it provided, I did use the information given to play around with the code to get my desired output.
 
 
@@ -108,7 +110,7 @@ I never used AI to document code because I never thought about it, and I also lo
 13. Quality assurance
 <br>
 <br>
-I have not used AI to check my code for quality assurance only because I put all of my trust into ESLint since it seemed to reccommend/fix everything I would even consider fixing. However, if we did not install/use ESLint, I would most likely ask AI to check my code to see if it was as efficient as it could be.
+I have not used AI to check my code for quality assurance only because I put all of my trust into ESLint since it seemed to recommend/fix everything I would even consider fixing. However, if we did not install/use ESLint, I would most likely ask AI to check my code to see if it was as efficient as it could be.
 
 
 14. Other uses in ICS 314 not listed above
@@ -124,7 +126,7 @@ Being able to incorporate AI into my learning and understanding process has been
 
 
 ### IV. Practical Applications:
-Some other practical applications of AI outside of ICS 314 would be other grammar/spelling checks, a possible outline for a creative short-story, a random name generator, a synonym generator, or even a calculator for complex calculations (like linear algebra). With many website requiring payments or subscriptions, AI has been a free resource that I could consistently rely on as a tool. When it came to my Linear Algebra class, sometimes I needed an example solved, but I wanted to see the steps. However, on most websites like Symbolab or Mathway, it only showed limited steps (which were obvious and not that helpful) and required an account or some kind of payment to actually see the full solution. Sort of ironically, these calculators are far less helpful than AI because at least I could ask AI HOW they got the answer rather than just being provided the answer like other caluclators.
+Some other practical applications of AI outside of ICS 314 would be other grammar/spelling checks, a possible outline for a creative short-story, a random name generator, a synonym generator, or even a calculator for complex calculations (like linear algebra). With many website requiring payments or subscriptions, AI has been a free resource that I could consistently rely on as a tool. When it came to my Linear Algebra class, sometimes I needed an example solved, but I wanted to see the steps. However, on most websites like Symbolab or Mathway, it only showed limited steps (which were obvious and not that helpful) and required an account or some kind of payment to actually see the full solution. Sort of ironically, these calculators are far less helpful than AI because at least I could ask AI HOW they got the answer rather than just being provided the answer like other calculators.
 
 
 ### V. Challenges and Opportunities:
