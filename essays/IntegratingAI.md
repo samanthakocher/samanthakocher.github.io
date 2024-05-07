@@ -44,9 +44,7 @@ I used AI in the In-class Practice WODs because due to the time pressure of clas
 <br>
 I almost always used AI in the In-class WODs because if it wasn't to assist my knowledge, it was to check if my instinct was right. Using AI in these WODs was not only beneficial to my grade because it allowed me to finish faster, but it also gave different ways I to accomplish the task at hand or even where to start. In these scenarios, ChatGPT was usually incorrect, but even giving the base structure, like the Grid System or even the Navbar system, helped save me time, which is valuable in timed WODs.
 <br> An example of when ChatGPT helped me with a grid system would be the WOD called Morning Brew Home Page. In this WOD, I remember needing help for a few things: centering my navbar and moving the footer. I gave ChatGPT my navbar code and asked why it wasn't centered, then I gave ChatGPT my footer code and asked how to adjust its position to the right.
-<p align="center">
-  <img width="500px" class="rounded float-center pe-4" src="../img/IntegratingAI/morning-brew-home-page.png">
-</p>
+<img width="500px" class="rounded float-center pe-4" src="../img/IntegratingAI/morning-brew-home-page.png">
 
   4. Essays
 <br>
@@ -59,9 +57,8 @@ In the Essays that we wrote in this class, I never put the prompt of the essay i
 <br>
 <br>
 I used AI in our final projects Home Page/Landing Page when it came to adjusting the style of it all. I was able to refer to previous assignments when it came to the basic layout, but I had a hard time to make the background image fit the screen perfectly, along with the navbar and footer. However, since ChatGPT can't import or export external sources (like my image), it was hard to get it to understand what my problem was. I eventually ended up asking "How to make the background image fit properly," which led it to give me some tips on how to adjust the CSS code to fit adjust an image size. With ChatGPTʻs tips and my knowledge from experience, I was able to play around with different patterns of the code which eventually gave me what I wanted.
-<p align="center">
-  <img width="500px" class="rounded float-center pe-4" src="../img/IntegratingAI/kalo-stems-landing-page.png">
-</p>
+<img width="500px" class="rounded float-center pe-4" src="../img/IntegratingAI/kalo-stems-landing-page.png">
+
 
   6. Learning a concept / tutorial
 <br>
