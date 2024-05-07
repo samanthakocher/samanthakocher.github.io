@@ -40,7 +40,7 @@ I used AI in the In-class Practice WODs because due to the time pressure of clas
   <img width="500px" class="rounded float-center pe-4" src="../img/IntegratingAI/murphys-home-page.png">
 </p>
 
-  3. In-class WODs
+3. In-class WODs
 <br>
 <br>
 I almost always used AI in the In-class WODs because if it wasn't to assist my knowledge, it was to check if my instinct was right. Using AI in these WODs was not only beneficial to my grade because it allowed me to finish faster, but it also gave different ways I to accomplish the task at hand or even where to start. In these scenarios, ChatGPT was usually incorrect, but even giving the base structure, like the Grid System or even the Navbar system, helped save me time, which is valuable in timed WODs.
