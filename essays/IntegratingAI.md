@@ -36,7 +36,9 @@ I did not use any AI in the Experience WODs because the experiences are built ar
 <br>
 I used AI in the In-class Practice WODs because due to the time pressure of class ending or professor giving the answer I wanted to be sure that I gave myself a fair shot and used all of my resources. 
 <br> For example, I used AI in the In-class WOD called Murphy's Bar and Grill, I asked ChatGPT things such as "How can I add space between an icon and text in bootstrap" for the area on the navbar showing the possible tabs (Home, About Us, Instagram, etc.).
-<br align="center">  <img width="500px" class="rounded float-center pe-4" src="../img/IntegratingAI/murphys-home-page.png">
+<br>
+  <p align="center"> <img width="500px" class="rounded float-center pe-4" src="../img/IntegratingAI/murphys-home-page.png">
+</p>
 
 3. In-class WODs
 <br>
