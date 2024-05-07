@@ -40,7 +40,6 @@ I used AI in the In-class Practice WODs because due to the time pressure of clas
   <img width="500px" class="rounded float-center pe-4" src="../img/IntegratingAI/murphys-home-page.png">
 </p>
 
-
   3. In-class WODs
 <br>
 <br>
@@ -49,7 +48,6 @@ I almost always used AI in the In-class WODs because if it wasn't to assist my k
 <p align="center">
   <img width="500px" class="rounded float-center pe-4" src="../img/IntegratingAI/morning-brew-home-page.png">
 </p>
-
 
   4. Essays
 <br>
@@ -65,7 +63,6 @@ I used AI in our final projects Home Page/Landing Page when it came to adjusting
 <p align="center">
   <img width="500px" class="rounded float-center pe-4" src="../img/IntegratingAI/kalo-stems-landing-page.png">
 </p>
-
 
   6. Learning a concept / tutorial
 <br>
@@ -95,7 +92,7 @@ I used AI when it came to providing examples because I feel like the database of
 10. Explaining code
 <br>
 <br>
-I do not think I have used AI to explain code so far, because I feel like a lot of code is self-explanatory or explained in lecture or screencasts, but I do forsee myself using AI to explain code in the future when I need to. In times where I start a job and want to see why a previous software engineer coded something, I would most likely put it into an AI to explain so I can either verify that I know what it's doing or clarify what exactly a specific line of code is doing.
+I do not think I have used AI to explain code so far, because I feel like a lot of code is self-explanatory or explained in lecture or screen-casts, but I do foresee myself using AI to explain code in the future when I need to. In times where I start a job and want to see why a previous software engineer coded something, I would most likely put it into an AI to explain so I can either verify that I know what it's doing or clarify what exactly a specific line of code is doing.
 <br>As an example, I would most likely ask ChatGPT (or any AI) "What does this segment of code do `<insert segment of code>`."
 
 
