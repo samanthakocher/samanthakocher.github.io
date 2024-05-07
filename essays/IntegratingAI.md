@@ -58,7 +58,7 @@ In the Essays that we wrote in this class, I never put the prompt of the essay i
 <br>The prompt I always used to ask ChatGPT was: "`<insert essay or parts to be spell/grammar checked>` check my spelling and grammar."
 
 
-  6. Final project
+5. Final project
 <br>
 <br>
 I used AI in our final projects Home Page/Landing Page when it came to adjusting the style of it all. I was able to refer to previous assignments when it came to the basic layout, but I had a hard time to make the background image fit the screen perfectly, along with the navbar and footer. However, since ChatGPT can't import or export external sources (like my image), it was hard to get it to understand what my problem was. I eventually ended up asking "How to make the background image fit properly," which led it to give me some tips on how to adjust the CSS code to fit adjust an image size. With ChatGPTʻs tips and my knowledge from experience, I was able to play around with different patterns of the code which eventually gave me what I wanted.
@@ -74,50 +74,51 @@ If I needed to know a concept for an assignment, I most likely asked AI to help 
 <br>For example, I used AI to help me learn and understand Design Patterns and what ways I may have already used it, along with the lecture videos on the ICS 314 website. By knowing more in depth, I was able to write my essay about Design Patterns more efficiently. I started by asking ChatGPT "What are design patterns used for?" then askedd "What are the most popular design pattedrns and some examples," then, if I had a specific design pattern in mind, I asked things like "Is this an example of a design pattern" along with some code to verify that I am correct in my thought process.
 
 
-  8. Answering a question in class or in Discord
+7. Answering a question in class or in Discord
 <br> 
 <br>
 I did not use AI to answer questions in class or in Discord because I never really answered anyone's question. I know Professor said it's beneficial if I did help other, because it could broaden my own knowledge, but I never felt confident enough to answer someone elses' question. To me, if I can use ChatGPT and try to answer, so could they, so what made my answer so special or different from what they should have already tried.
 
 
-  10. Asking or answering a smart-question
+8. Asking or answering a smart-question
 <br>
 <br>
 I did not use AI to ask or answer anything in the smart-questions channel because similar to my response for #7, what I could find felt like things other people could have easily found. Plus, I do not have enough confidence in my knowledge or experience to even know where to begin for some of the questions asked.
 
 
-  11. Coding example e.g. “give an example of using Underscore .pluck”
+9. Coding example e.g. “give an example of using Underscore .pluck”
 <br>
 <br>
 I used AI when it came to providing examples because I feel like the database of which AI platforms such as ChatGPT can pull examples from is far larger than a list of examples for a single person. Like I stated in #6, I used AI to help provide examples to Design Patterns so I could better relate and grasp what exactly they do and are. Asking AI rather than a classmate or the professor what some examples of design patterns are allows me to not only try to find the answer myself by teaching myself independent research skills, but it also allowed for me add examples to my personal memory and dictionary on top of what the professor provided in the screencast lecture videos.
 
 
-  12. Explaining code
+10. Explaining code
 <br>
 <br>
 I do not think I have used AI to explain code so far, because I feel like a lot of code is self-explanatory or explained in lecture or screencasts, but I do forsee myself using AI to explain code in the future when I need to. In times where I start a job and want to see why a previous software engineer coded something, I would most likely put it into an AI to explain so I can either verify that I know what it's doing or clarify what exactly a specific line of code is doing.
 <br>As an example, I would most likely ask ChatGPT (or any AI) "What does this segment of code do `<insert segment of code>`."
 
 
-  14. Writing code
+11. Writing code
 <br>
 <br>
 I don't think I've used AI to completely write any of my code only because I knew there were certain things that it did and I didn't learn yet so I couldn't verify if it was accurate or not. However, similar to #10, I used AI to give an example of what I was looking for which allowed me to copy certain lines of code.
 <br>An example of what I would ask AI would be something along the lines of "How to change the background of my navbar," which I used for my Final Project's Landing Page (#5), and it gave me a couple of different ways to change the color of my navbar. Although I didn't copy what it provided, I did use the information given to play around with the code to get my desired output.
 
-  16. Documenting code
+
+12. Documenting code
 <br>
 <br>
 I never used AI to document code because I never thought about it, and I also lost my habit of actually documenting my code. However, going forward, I will definitely consider using AI to help accurately and efficiently document my code.
 
 
-  17. Quality assurance
+13. Quality assurance
 <br>
 <br>
 I have not used AI to check my code for quality assurance only because I put all of my trust into ESLint since it seemed to reccommend/fix everything I would even consider fixing. However, if we did not install/use ESLint, I would most likely ask AI to check my code to see if it was as efficient as it could be.
 
 
-  19. Other uses in ICS 314 not listed above
+14. Other uses in ICS 314 not listed above
 <br>
 <br>
 I do not think I used AI for anything that has not yet been mentioned for ICS 314.
@@ -134,7 +135,8 @@ Some other practical applications of AI outside of ICS 314 would be other gramma
 
 
 ### V. Challenges and Opportunities:
-
+The only challenge or limitation I would consider when it comes to using AI would be not be able to get an accurate answer and also, its database not being updated regularly leading to more older, outdated information. When it comes to get an appropriate or useful answer, it really does depend on how you word your question, and what parts the AI picks up on. It may take multiple tries to get the AI to pick up on the right words, which is important to write smart questions where there is no unnecessary information or extra words. I thinking ones ability to write a straight forward, to-the-point question weighs heavily on the output of the AI. On top of wording a question accurately, we also are assuming that the AI is up to date with accurate information. So, I would consider these two "problems" to be one of the challenges of using AI.
+<br>I think further integration of AI in software engineering education is almost a necessity. I am grateful for the amount that we were allowed to use this semester in ICS 314, but being able to explore more about AI, and especially as it changes and grows overtime would be really interesting to see. Being given the opportunity to integrate AI into my education has made me a better question-asker, researcher (from verifying the information), and has broaden my overall knowledge.
 
 
 ### VI. Comparative Analysis:
