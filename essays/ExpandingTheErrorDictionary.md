@@ -4,7 +4,7 @@ type: essay
 image: ../img/ExpandingTheErrorDictionary/JavascriptDictionary.jpg
 title: "Expanding the Error Dictionary"
 date: 2024-02-07
-published: true
+published: false
 labels:
   - Javascript
   - ESLint
