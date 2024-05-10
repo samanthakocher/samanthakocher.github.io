@@ -4,7 +4,7 @@ type: essay
 image: /img/ThePowerOfSoftwareEngineering/softwareengineering.jpeg
 title: "The Power of Software Engineering"
 date: 2024-01-18
-published: true
+published: false
 labels:
   - Software Engineering
   - Computer Science
