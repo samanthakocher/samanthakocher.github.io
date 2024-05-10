@@ -6,7 +6,7 @@
     "email": "kochers@hawaii.edu",
     "phone": "808-913-9931",
     "website": "https://samanthakocher.github.io",
-    "summary": "I am studying for a B.S. in Computer Science - Security Science in the Department of Information and Computer Sciences and Japanesee Language in the East Asian Languages and Literatures at the University of Hawaii. I expect to graduate in Spring, 2025 and fulfill a career in Cyber Security.",
+    "summary": "I am studying for a B.S. in Computer Science - Security Science in the Department of Information and Computer Sciences, with a Minor in Japanese from the Japanesee Language in the East Asian Languages and Literatures at the University of Hawaii. I expect to graduate in Spring, 2025 and fulfill a career in Cyber Security.",
     "location": { "address": "", "postalCode": "96814", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "samanthakocher", "url": "http://github.com/samanthakocher" },
@@ -22,7 +22,7 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript" ]
+      "keywords": [ "C", "C++", "Java", "Javascript", "Bootstrap", "HTML" ]
     },
     {
       "name": "Toolsets/OS",
@@ -37,6 +37,21 @@
       "startDate": "2021",
       "endDate": "Present",
       "courses": [
+	      "Completed:" 
+		      "ICS 111: Introduction to Computer Science I"
+		      "ICS 211: Introduction to Computer Science II"
+		      "ICS 212: Program Structures"
+		      "ICS 141: Discrete Mathematics I"
+		      "ICS 241: Discrete Mathematics II"
+		      "ICS 222: Basic Concepts of Computer Science"
+		      "ICS 311: Algorithms"
+	      	      "ICS 314: Software Engineering I"
+	      "In Progress:"
+		      "ICS 451: Data Networks"
+		      "ENGR: Engineering Management"
+		      "ICS 312: Mathcine-Level & Systems Programming"
+		      "ICS 321: Databse Systems I"
+		      "ICS 355: Security and Trust I"
       ]
     }
   ],
@@ -47,8 +62,12 @@
       "website": "",
       "startDate": "2024",
       "endDate": "Present",
-      "summary": "Start next month",
+      "summary": "Assist and support day-to-day IT operations within the University of Hawaii Cancer Center.",
       "highlights": [
+	      "Respond to ITHelpdesk requests from employees."
+	      "Provide telephone support by addressing incoming calls from employees." 
+	      "Support the setup and preparation for conferences including seminars, webinars, and related events, ensuring seamless operation of all technical equipment and devices."
+	      "Manage user provisioning by creating Windows accounts for new employees and configuring appropriate permissions, including administrative or user-level access as needed."
       ]
     },
     {
@@ -94,14 +113,6 @@
       ]
     }
   ],
-    "awards" : [
-	{
-	    "title": "Hawai'i Seal of Biliteracy, Japanese and English",
-	    "date": "2021-05",
-	    "awarder": "Hawai'i State  Department of Education",
-	    "summary": "To be awarded upon graduation to students who demonstrate a high proficiency in either of the state's two official languages and at least one additional language. "
-	}    
-    ],
   "references": [
     {
       "name": "Available upon request"
