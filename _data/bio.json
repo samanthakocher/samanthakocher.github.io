@@ -37,7 +37,6 @@
       "startDate": "2021",
       "endDate": "Present",
       "courses": [
-	      "Completed:",
 	      "ICS 111: Introduction to Computer Science I",
 	      "ICS 211: Introduction to Computer Science II",
 	      "ICS 212: Program Structures",
@@ -46,12 +45,11 @@
 	      "ICS 222: Basic Concepts of Computer Science",
 	      "ICS 311: Algorithms",
 	      "ICS 314: Software Engineering I",
-	      "In Progress:",
-	      "ICS 451: Data Networks",
-	      "ENGR: Engineering Management",
-	      "ICS 312: Mathcine-Level & Systems Programming",
-	      "ICS 321: Databse Systems I",
-	      "ICS 355: Security and Trust I",
+	      "ICS 451: Data Networks (In Progress)",
+	      "ENGR: Engineering Management (In Progress)",
+	      "ICS 312: Mathcine-Level & Systems Programming (In Progress)",
+	      "ICS 321: Databse Systems I (In Progress)",
+	      "ICS 355: Security and Trust I (In Progress)",
       ]
     }
   ],
