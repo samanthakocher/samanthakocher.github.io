@@ -4,7 +4,7 @@ type: project
 image: img/LegoMindstormsCompetition/shooterbot.jpg
 title: "Lego Mindstorms Robotics Competition"
 date: 2017
-published: true
+published: false
 labels:
   - Lego Mindstorms
   - Block Coding
