@@ -16,7 +16,7 @@ labels:
   <img width="700px" class="rounded float-center pe-4" src="../img/softwareEngineeringRealm/software-engineering.jpeg">
 </p>
 
-Throughout this past semester, I was able to dip my feet into the software engineering realm where I got a sneak peak of what it feels like to built custom and cool applications, website, or just functions in general. Although my specific interest is in Cyber Security, there wasn't a moment where I thought I was learning useless information.
+Throughout this past semester, I was able to dip my feet into the software engineering realm where I got a sneak peek of what it feels like to built custom and cool applications, website, or just functions in general. Although my specific interest is in Cyber Security, there wasn't a moment where I thought I was learning useless information.
 
 Learning things like user interface frameworks, coding standards, and agile project management are all skills that not only will help me in my future career endeavors, but also life in general. Whether I actually end up in the computer science world or not, I think these basic, yet useful topics will take me far in life.
 
@@ -26,7 +26,7 @@ Learning things like user interface frameworks, coding standards, and agile proj
   <img width="500px" class="rounded float-center pe-4" src="../img/softwareEngineeringRealm/ui-frameworks.png">
 </p>
 
-User interface frameworks will forever be one of my favorite things that I learned from this software engineering class. To think that someone built a UI Toolkit to make coding easier makes me so happy and hopeful that this toolkit will only expand to the extent where it would have almost everything. From containing pre-built UI components like buttons, text-fields, checkboxes, etc., to having the grid layout system, to even event handling, the UI toolkits uses are endless.
+User interface frameworks will forever be one of my favorite things that I learned from this software engineering class. To think that someone built a UI toolkit to make coding easier makes me so happy and hopeful that this toolkit will only expand to the extent where it would have almost everything. From containing pre-built UI components, like buttons, text-fields, checkboxes, etc., to having the grid layout system, to even event handling, the UI toolkits uses are endless.
 
 Now, what more could I do with this than create a pretty and working website? Well, since my goal is to work in the Computer Science industry, grids, pre-built UI components, event handling, etc., will all be used in no matter what I do with it. An example could be if I worked in the Cyber Security world, how will I know what I'm trying to protect when I don't know what the code is saying or what the grid system is/looks like?
 
@@ -38,7 +38,7 @@ UI frameworks can also be found in things like interactive displays, gaming/ente
   <img width="500px" class="rounded float-center pe-4" src="../img/softwareEngineeringRealm/coding-standards.jpeg">
 </p>
 
-Although coding is still somewhat similar to software engineering, universal coding tips like coding standards can go a long way in the technology industry. Not only is knowing what coding standards are useful, but being able to put them into practice, make them a habit, and surprise everyone when your code is highly organized, efficient, and consistent is a flex everyone should want.
+Although coding is still somewhat similar to software engineering, universal coding practices like coding standards can go a long way in the technology industry. Not only is knowing what coding standards are useful, but being able to put them into practice, make them a habit, and surprise everyone when your code is highly organized, efficient, and consistent is a flex everyone should want.
 
 Learning about coding standards could also get someone used to being clean and even outside of the coding world. Knowing about a process that keeps things efficient could influence and inspire for one to create similar processes for other life tasks. For example, when taking notes for a class, we can have note standards where like coding standards, it allows for all of the notes to be clean, consistent, organized, and easy to follow even when it isn't yours. Naming conventions in coding standards could replicate setting up for the chapter, section, titles, subsections, etc. the same. Color-coding notes could also be a considered a note standard because to make color-coding work most efficiently, it's best if the colors and what they are related to stay consistent throughout all of the notes so there is not confusion.
 
