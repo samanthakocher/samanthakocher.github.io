@@ -38,20 +38,20 @@
       "endDate": "Present",
       "courses": [
 	      "Completed:" 
-	      "ICS 111: Introduction to Computer Science I"
-	      "ICS 211: Introduction to Computer Science II"
-	      "ICS 212: Program Structures"
-	      "ICS 141: Discrete Mathematics I"
-	      "ICS 241: Discrete Mathematics II"
-	      "ICS 222: Basic Concepts of Computer Science"
-	      "ICS 311: Algorithms"
-      	      "ICS 314: Software Engineering I"
-	      "In Progress:"
-	      "ICS 451: Data Networks"
-	      "ENGR: Engineering Management"
-	      "ICS 312: Mathcine-Level & Systems Programming"
-	      "ICS 321: Databse Systems I"
-	      "ICS 355: Security and Trust I"
+	      "ICS 111: Introduction to Computer Science I",
+	      "ICS 211: Introduction to Computer Science II",
+	      "ICS 212: Program Structures",
+	      "ICS 141: Discrete Mathematics I",
+	      "ICS 241: Discrete Mathematics II",
+	      "ICS 222: Basic Concepts of Computer Science",
+	      "ICS 311: Algorithms",
+      	      "ICS 314: Software Engineering I",
+	      "In Progress:",
+	      "ICS 451: Data Networks",
+	      "ENGR: Engineering Management",
+	      "ICS 312: Mathcine-Level & Systems Programming",
+	      "ICS 321: Databse Systems I",
+	      "ICS 355: Security and Trust I",
       ]
     }
   ],
@@ -64,10 +64,10 @@
       "endDate": "Present",
       "summary": "Assist and support day-to-day IT operations within the University of Hawaii Cancer Center.",
       "highlights": [
-	      "Respond to ITHelpdesk requests from employees."
-	      "Provide telephone support by addressing incoming calls from employees." 
-	      "Support the setup and preparation for conferences including seminars, webinars, and related events, ensuring seamless operation of all technical equipment and devices."
-	      "Manage user provisioning by creating Windows accounts for new employees and configuring appropriate permissions, including administrative or user-level access as needed."
+	      "Respond to ITHelpdesk requests from employees.",
+	      "Provide telephone support by addressing incoming calls from employees." ,
+	      "Support the setup and preparation for conferences including seminars, webinars, and related events, ensuring seamless operation of all technical equipment and devices.",
+	      "Manage user provisioning by creating Windows accounts for new employees and configuring appropriate permissions, including administrative or user-level access as needed.",
       ]
     },
     {
