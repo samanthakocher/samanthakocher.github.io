@@ -7,9 +7,13 @@ date: 2024-05-09
 published: true
 labels:
 - Software Engineering
+- UI Frameworks
+- Coding Standards
+- Agile Project Management
+- Outside Applications
 ---
 <p align="center">
-  <img width="500px" class="rounded float-center pe-4" src="../img/softwareEngineeringRealm/software-engineering.jpeg">
+  <img width="600px" class="rounded float-center pe-4" src="../img/softwareEngineeringRealm/software-engineering.jpeg">
 </p>
 
 Throughout this past semester, I was able to dip my feet into the software engineering realm where I got a sneak peak of what it feels like to built custom and cool applications, website, or just functions in general. Although my specific interest is in Cyber Security, there wasn't a moment where I thought I was learning useless information.
@@ -19,7 +23,7 @@ Learning things like user interface frameworks, coding standards, and agile proj
 ## User Interface Frameworks
 
 <p align="center">
-  <img width="200px" class="rounded float-center pe-4" src="../img/softwareEngineeringRealm/ui-frameworks.png">
+  <img width="300px" class="rounded float-center pe-4" src="../img/softwareEngineeringRealm/ui-frameworks.png">
 </p>
 
 User interface frameworks will forever be one of my favorite things that I learned from this software engineering class. To think that someone built a UI Toolkit to make coding easier makes me so happy and hopeful that this toolkit will only expand to the extent where it would have almost everything. From containing pre-built UI components like buttons, text-fields, checkboxes, etc., to having the grid layout system, to even event handling, the UI toolkits uses are endless.
@@ -31,7 +35,7 @@ UI frameworks can also be found in things like interactive displays, gaming/ente
 ## Coding Standards
 
 <p align="center">
-  <img width="200px" class="rounded float-center pe-4" src="../img/softwareEngineeringRealm/coding-standards.jpeg">
+  <img width="300px" class="rounded float-center pe-4" src="../img/softwareEngineeringRealm/coding-standards.jpeg">
 </p>
 
 Although coding is still somewhat similar to software engineering, universal coding tips like coding standards can go a long way in the technology industry. Not only is knowing what coding standards are useful, but being able to put them into practice, make them a habit, and surprise everyone when your code is highly organized, efficient, and consistent is a flex everyone should want.
@@ -43,7 +47,7 @@ Knowing coding standards not only allows for code to be organized and nice, but 
 ## Agile Project Management
 
 <p align="center">
-  <img width="200px" class="rounded float-center pe-4" src="../img/softwareEngineeringRealm/agile-proj-management.jpeg">
+  <img width="300px" class="rounded float-center pe-4" src="../img/softwareEngineeringRealm/agile-proj-management.jpeg">
 </p>
 
 Agile project management is one of the most useful things we have learned this semester. Unless you are a major or have specialty interest in management, I think management skills can have infinitely many applications to life, even outside of the projects world. 
