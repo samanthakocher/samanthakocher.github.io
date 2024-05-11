@@ -29,12 +29,9 @@ Throughout the duration of our project, we implemented a structured approach to 
 Moreover, we maximized our in-class workshop time by actively managing our project board. This involved meticulously maintaining and updating the project board to reflect the current status of tasks and objectives. We conducted regular reviews of all listed issues or tasks to ensure clarity in instructions and feasibility within specified deadlines. This iterative process allowed us to refine our task list continuously, ensuring that every item was essential, actionable, and aligned with project milestones.
 
 Below are screenshots of the landing page and list jobs page. Although my teammate Emily did majority of the work, I helped with minor touches in and around the application.
-<p>
+<p align="center">
   <img width="500px" class="rounded float-center pe-4" src="../img/KaloStemsProject/landing-page.png">
-</p>
-
-<p>
-  <img width="500px" class="rounded float-center pe-4" src="../img/KaloStemsProject/list-jobs.png">
+<img width="500px" class="rounded float-center pe-4" src="../img/KaloStemsProject/list-jobs.png">
 </p>
 
 <h2>Future Goals</h2>
@@ -50,6 +47,6 @@ On top of learning about project management, this experience also allowed me to 
 </p>
 
 Compared to our current, newest one:
-<p>
+<p align="center">
   <img width="500px" class="rounded float-center pe-4" src="../img/KaloStemsProject/landing-page.png">
 </p>
