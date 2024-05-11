@@ -16,7 +16,7 @@ summary: "An application built for University of Hawaii at Manoa students to con
 ---
 
 <p align="center">
-  <img width="700px" class="rounded float-center pe-4" src="../img/KaloStemsProject/kalo-stems.png">
+  <img width="500px" class="rounded float-center pe-4" src="../img/KaloStemsProject/about-us-page.png">
 </p>
 
 Kalo Stems is an application that allows the University of Hawaii at Manoa students to connect with career opportunities from companies who create an account on our application. Kalo Stems bridges the gap between academia and industry, opening the opportunity for students to have long-term professional success. Although, we originally planned on having a filtering system to where students can filter companies and companies and filter students, due to time and lack of knowledge, it was hard to implement. However, we were able to create different pages where there are lists of student profiles, company profiles, and job opportunities/positions. 
