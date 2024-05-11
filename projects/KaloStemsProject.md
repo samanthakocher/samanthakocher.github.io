@@ -41,6 +41,7 @@ Some things that I hope our group could come together to adjust our application 
 One of my biggest lessons from this project was learning how to manage projects. Being able to not only learn, but implement an organized and efficient system to keep not only me but the group on task and adhering to the deadlines was highly knowledgeable for me. This skill and knowledge is now something I can take with me for any other class, project, task, or even job.
 
 On top of learning about project management, this experience also allowed me to build on my research skills to create new and different designs to match our theme. For example, as I was editing the landing page to have the sample images stacked on top of each other rather than next to each other, I researched how to do it first. However, I couldn't seem to find the answer I was looking for, so I tried to look at fellow classmates' project landing page, and although I saw some patterns, I ended up using their samples, my samples, and my knowledge to start to connect the dots of what we already learned. To conclude my research, I found that creating a whole new page to contain the images and description, then calling it into our landing page is what solved my problem. After that, I just had to do a similar process to fix minor aesthetic errors.
+<br>
 <br> Here is the before, very first mockup:
 <p align="center">
   <img width="500px" class="rounded float-center pe-4" src="../img/KaloStemsProject/old-landing-page.png">
@@ -50,3 +51,8 @@ Compared to our current, newest one:
 <p align="center">
   <img width="500px" class="rounded float-center pe-4" src="../img/KaloStemsProject/landing-page.png">
 </p>
+
+
+To learn more about our project, click [here](https://kalo-stems.github.io/)!
+
+To view our source code, click [here](https://github.com/kalo-stems).
