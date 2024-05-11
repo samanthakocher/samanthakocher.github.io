@@ -10,6 +10,10 @@ labels:
   - Internet Slang
 ---
 
+<p align="center">
+<img width="500" src="../img/JavascriptAndInternetSlang/internet-slang.jpeg">
+</p>
+
 Javascript is a type of programming language that was reportedly created over a weekend. With just a weekend, I think it is crazy how intricate and complex, yet simple and efficient it is! As my only prior experience with programming languages being primarily Java with some experience in C and C++, Javascript gave me the impression that it is an informal version of Java. For example, when declaring a variable in Java, you have to also specify the type of variable you are trying to declare. However, in Javascript, it is not required.
 
 <h2> JavaScript in Relation to the Real World </h2>
