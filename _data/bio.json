@@ -111,6 +111,28 @@
       ]
     }
   ],
+"certificates": [
+    {
+      "title": "Good Clinical Practice Course for Clinical Trials Involving Drugs",
+      "date": "February 2024",
+      "organization": "CITI Program"
+    },
+    {
+      "title": "Information Privacy & Security (IPS)",
+      "date": "February 2024",
+      "organization": "CITI Program"
+    },
+    {
+      "title": "Human Subjects Research (HSR)",
+      "date": "February 2024",
+      "organization": "CITI Program"
+    },
+    {
+      "title": "University of Hawaii Information Security Awareness Training (ISAT)",
+      "date": "February 2024",
+      "organization": "University of Hawaii"
+    }
+  ],
   "references": [
     {
       "name": "Available upon request"
