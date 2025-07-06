@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Samantha Kocher",
-    "label": "Student",
+    "label": "Recent Graduate",
     "picture": "https://github.com/samanthakocher.png",
-    "email": "kochers@hawaii.edu",
+    "email": "kocher.samantha.s@gmail.com",
     "phone": "808-913-9931",
     "website": "https://samanthakocher.github.io",
-    "summary": "I am studying for a B.S. in Computer Science - Security Science in the Department of Information and Computer Sciences, with a Minor in Japanese from the Japanesee Language in the East Asian Languages and Literatures at the University of Hawaii. I expect to graduate in Spring, 2025 and fulfill a career in Cyber Security.",
+    "summary": "I am a recent graduate of a B.S. in Computer Science - Security Science in the Department of Information and Computer Sciences, with a Minor in Japanese from the Japanesee Language in the East Asian Languages and Literatures at the University of Hawaii. I am hoping to gain experience in any technical field, but aim to eventually build a career as a Cybersecurity Analyst.",
     "location": { "address": "", "postalCode": "96814", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "samanthakocher", "url": "http://github.com/samanthakocher" },
@@ -16,26 +16,25 @@
   "interests": [
     { "name": "Cyber Security" },
     {  "name": "Encryption" },
-    {  "name": "Data Security" },
-    {  "name": "Network Security" }
+    {  "name": "Data Security" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Bootstrap", "HTML" ]
+      "keywords": [ "C", "C++", "Java", "Javascript", "Bootstrap", "HTML", "CSS", "Meteor" ]
     },
     {
       "name": "Toolsets/OS",
-	"keywords": [ "MacOS", "Git/GitHub", "Microsoft Office", "Google Applications" ]
+	"keywords": [ "MacOS", "Windows", "Git/GitHub", "Microsoft Office Suite", "Google Workspace", "Wireshark", "Metasploit", "Kali Linux", "Linux", "Git/GitHub", "Docker", "Digital Ocean" ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2025)",
+      "area": "Computer Science - Security Science",
       "studyType": "B.S.",
       "startDate": "2021",
-      "endDate": "Present",
+      "endDate": "2025",
       "courses": [
 	      "ICS 111: Introduction to Computer Science I",
 	      "ICS 211: Introduction to Computer Science II",
@@ -45,27 +44,31 @@
 	      "ICS 222: Basic Concepts of Computer Science",
 	      "ICS 311: Algorithms",
 	      "ICS 314: Software Engineering I",
-	      "ICS 451: Data Networks (In Progress)",
-	      "ENGR: Engineering Management (In Progress)",
-	      "ICS 312: Mathcine-Level & Systems Programming (In Progress)",
-	      "ICS 321: Databse Systems I (In Progress)",
-	      "ICS 355: Security and Trust I (In Progress)",
+	      "ICS 451: Data Networks",
+	      "ENGR: Engineering Management",
+	      "ICS 312: Mathcine-Level & Systems Programming",
+	      "ICS 321: Databse Systems I",
+	      "ICS 355: Security and Trust I",
+	      "ICS 425: Computer Security and Ethics",
+	      "ECE 491B: Special Topics in EE: Artificial Intelligence",
+	      "ICS 495: Special Security Topic",
       ]
     }
   ],
   "work": [
     {
-      "company": "University of Hawaii",
+      "company": "University of Hawaii Cancer Center",
       "position": "IT Support",
       "website": "",
       "startDate": "2024",
       "endDate": "Present",
       "summary": "Assist and support day-to-day IT operations within the University of Hawaii Cancer Center.",
       "highlights": [
-	      "Respond to ITHelpdesk requests from employees.",
-	      "Provide telephone support by addressing incoming calls from employees." ,
-	      "Support the setup and preparation for conferences including seminars, webinars, and related events, ensuring seamless operation of all technical equipment and devices.",
-	      "Manage user provisioning by creating Windows accounts for new employees and configuring appropriate permissions, including administrative or user-level access as needed.",
+	      "Provide Tier 1 & Tier 2 technical support for Windows, macOS, and Linux environments",
+	      "Assist in the configuration and maintenance of institutional devices including endpoint security tools and antivirus software" ,
+	      "Support asset management and inventory audits for compliance and IT policy adherence",
+	      "Respond to phishing attempts and suspicious activity reports following internal escalation procedures",
+	      "Help test and document IT infrastructure and security protocols, including access permissions and backups.",
       ]
     },
     {
@@ -112,6 +115,16 @@
     }
   ],
   "certificates": [
+    {
+      "title": "Security+",
+      "date": "In Progress (Expected Fall 2025)",
+      "organization": "CompTIA"
+    },
+    {
+      "title": "CYSA+",
+      "date": "In Progress (Expected Winter 2025",
+      "organization": "CompTIA"
+    },
     {
       "title": "Good Clinical Practice Course for Clinical Trials Involving Drugs",
       "date": "February 2024",
